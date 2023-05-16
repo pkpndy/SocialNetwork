@@ -1,0 +1,81 @@
+.rightbar {
+  flex: 3.5;
+}
+.rightbarWrapper {
+  padding: 20px 20px 0 0;
+}
+
+.giftImg {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.birthdayWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.adImage {
+  width: 400px;
+  object-fit: contain;
+  border-radius: 30px;
+  margin: 30px 0;
+}
+
+.rightbarFriendsList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.onlineFriendsTitle {
+  margin-bottom: 20px;
+}
+
+.rightbarTitle {
+  margin-bottom: 10px;
+  font: 500;
+  font-size: 18px;
+}
+
+.rightbarInfo {
+  margin-bottom: 30px;
+}
+
+.rightbarInfoItem {
+  margin-bottom: 10px;
+}
+
+.rightbarInfoKey {
+  color: #555;
+  margin-right: 15px;
+  font-weight: 500;
+}
+
+.rightbarInfoValue {
+  font-weight: 300;
+}
+
+.rightbarFollowingImg {
+  width: 125px;
+  height: 125px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.rightbarFollowings {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.rightbarFollowing {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

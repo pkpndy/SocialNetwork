@@ -1,0 +1,19 @@
+.leftbarFriendList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.leftbarFriendImg {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.leftbarFriend {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
